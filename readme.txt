@@ -1,5 +1,5 @@
-Express²ËÄñ½Ì³Ì£ºhttp://www.runoob.com/nodejs/nodejs-express-framework.html
-F:\serve> node build/helloServe.js  ÆðÏîÄ¿
-http://localhost:8000/api/product  ¿ÉÒÔ·ÃÎÊ±¾µØ£¬ÆðÁËangularÏîÄ¿http://localhost:4200/api/product ¿É·ÃÎÊ8000¶Ë¿Ú
-Èç¹ûÊµÊ±¼àÌý±ä»¯  F:\serve> nodemon build/actionServe.js
+Expressèœé¸Ÿæ•™ç¨‹ï¼šhttp://www.runoob.com/nodejs/nodejs-express-framework.html
+F:\serve> node build/helloServe.js  èµ·é¡¹ç›®
+http://localhost:8000/api/product  å¯ä»¥è®¿é—®æœ¬åœ°ï¼Œèµ·äº†angularé¡¹ç›®http://localhost:4200/api/product å¯è®¿é—®8000ç«¯å£
+å¦‚æžœå®žæ—¶ç›‘å¬å˜åŒ–  F:\serve> nodemon build/actionServe.js
 http://localhost:4200/api/product 
